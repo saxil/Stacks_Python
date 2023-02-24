@@ -1,2 +1,2 @@
 # Stacks_Python
-Stack is an type of DSA. Its actually an stacks of book .
+  A stack program is a type of data structure that works on the principle of last-in-first-out (LIFO). This means that the most recently added item to the stack will be the first one to be removed. A typical stack program will have two important functions, push and pop. The push function is used to add an item to the top of the stack, while the pop function removes the item from the top of the stack.

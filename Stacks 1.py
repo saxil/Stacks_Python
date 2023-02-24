@@ -24,5 +24,5 @@ while True:
         else:
             print("Popped value",stack.pop())
     elif do ==3:
-        print("**********************************❤Thank You For Using Us❤! Have nice day ahead!❤**********************************")
+        print("Thank You For Using Us! Have nice day ahead!")
         break        
